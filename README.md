@@ -1,5 +1,5 @@
 # Fireblocks Assignment- Using API to transfer assets from wallet with balance threshold
-In this project, I'm using Fireblocks to transfer assets between wallets, monitoring the transactions throw code.<br>
+In this project, I'm using Fireblocks to transfer assets between wallets, monitoring the transactions through code.<br>
 I used fireblocks documentation to connect, and use their API and Webhooks.<br>
 https://developers.fireblocks.com/reference/api-overview<br>
 https://developers.fireblocks.com/docs/webhooks-notifications<br>
